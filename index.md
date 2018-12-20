@@ -3,6 +3,8 @@
 [Beaker](https://beaker-pub.allenai.org) is a collaborative platform for
 rapid, reproducible research.
 
+[Link to readme](README.md)
+
 [About blueprints](https://github.com/PKing70/beaker/blob/master/docs/blueprints.md)
 
 ## Prerequisites
