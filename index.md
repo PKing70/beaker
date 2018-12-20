@@ -5,6 +5,8 @@ rapid, reproducible research.
 
 [Link to readme](README.md)
 
+[Link to about](about.md)
+
 [About blueprints](https://github.com/PKing70/beaker/blob/master/docs/blueprints.md)
 
 ## Prerequisites
