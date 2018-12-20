@@ -9,7 +9,7 @@ rapid, reproducible research.
 
 [Link to brandnew](brandnew.md)
 
-[About blueprints](https://github.com/PKing70/beaker/blob/master/docs/blueprints.md)
+[Link to theme demo](style.md)
 
 [Link to test](test.html)
 
