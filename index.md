@@ -7,6 +7,8 @@ rapid, reproducible research.
 
 [Link to about](about.md)
 
+[Link to brandnew](brandnew.md)
+
 [About blueprints](https://github.com/PKing70/beaker/blob/master/docs/blueprints.md)
 
 ## Prerequisites
