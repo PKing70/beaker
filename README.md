@@ -3,6 +3,8 @@
 [Beaker](https://beaker-pub.allenai.org) is a collaborative platform for
 rapid, reproducible research.
 
+[About blueprints](https://github.com/PKing70/beaker/blob/master/docs/blueprints.md)
+
 ## Prerequisites
 
 [Docker](https://www.docker.com/) is the foundation for Beaker experiments and
