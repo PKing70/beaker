@@ -11,6 +11,8 @@ rapid, reproducible research.
 
 [About blueprints](https://github.com/PKing70/beaker/blob/master/docs/blueprints.md)
 
+[Link to test](test.html)
+
 ## Prerequisites
 
 [Docker](https://www.docker.com/) is the foundation for Beaker experiments and
