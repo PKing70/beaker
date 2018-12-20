@@ -1,7 +1,7 @@
 # Beaker
 
 [Beaker](https://beaker-pub.allenai.org) is a collaborative platform for
-rapid and reproducible research.
+rapid, reproducible research.
 
 ## Prerequisites
 
