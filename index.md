@@ -1,4 +1,4 @@
-# Beaker
+# Beaker from index.md
 
 [Beaker](https://beaker-pub.allenai.org) is a collaborative platform for
 rapid, reproducible research.
